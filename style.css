@@ -1,0 +1,12 @@
+body {
+  border: 3px black solid;
+}
+
+div {
+  border: 3px black dashed;
+  margin: 20px
+}
+
+button {
+  margin: 20px
+}
